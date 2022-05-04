@@ -9,7 +9,6 @@ export function Widget() {
         <WidgetForm />
       </Popover.Panel>
 
-
       <Popover.Button className="bg-brand-500 rounded-full px-3 h-12 text-white flex items-center group">
         <ChatTeardropDots className="w-6 h-6" />
 
