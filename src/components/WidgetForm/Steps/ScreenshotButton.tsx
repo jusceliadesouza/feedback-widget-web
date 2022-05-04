@@ -36,7 +36,6 @@ export function ScreenshotButton({
         }}
       >
         <Trash weight="fill" />
-
       </button>
     )
   }
